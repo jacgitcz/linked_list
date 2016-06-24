@@ -4,9 +4,9 @@ Odin Project : Ruby Programming : Data Structures
 
 This code implements a linked list in Ruby.
 
-#insert_at includes a data parameter for the new node, as well as the index.  The addition of the new node is such that the new node will have the given index, that is, it is added before the current node at index.
+Method #insert_at includes a data parameter for the new node, as well as the index.  The addition of the new node is such that the new node will have the given index, that is, it is added before the current node at index.
 
-#set_at(index,data) sets the node at index to have the given data - it overwrites the previous data value
+Method #set_at(index,data) sets the node at index to have the given data - it overwrites the previous data value
 
 Index values are counted from 0
 
